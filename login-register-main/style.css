@@ -1,0 +1,33 @@
+ 
+.container{
+    max-width: 600px;
+    padding:30px;
+    margin:0 auto;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+.form-group{
+    margin-bottom:20px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 50px;
+     
+}
+ 
+
+.container {
+    /* padding-top: 50px; */
+    text-align: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin:0 auto;
+
+}
+
+ 
